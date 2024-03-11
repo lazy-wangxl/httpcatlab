@@ -35,6 +35,10 @@ setup(
     maintainer_email='xiaolongwang501@gmail.com',
     license='MIT',
     url='https://github.com/lazy-wangxl/httpcatlab',
+    download_url='https://github.com/lazy-wangxl/httpcatlab',
+    project_urls={
+        'Source': 'https://github.com/lazy-wangxl/httpcatlab.git',
+    },
     platforms='any',
     packages=find_packages(),
     classifiers=[
